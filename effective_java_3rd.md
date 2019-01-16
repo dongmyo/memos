@@ -55,7 +55,7 @@
 ### Item 59 - 라이브러리를 익히고 사용하라
 * java 9에 추가된 InputStream.transferTo(OutputStream) 메쏘드에 대한 논의가 추가됨
 
-### Item 80 - 쓰레드보다는 실행자, 태스크, 스트림
+### Item 80 - 쓰레드보다는 실행자, 태스크, 스트림
 * 제목에 스트림이 추가됨
 * java 7에서 executor framework에 추가된 Fork/Join 내용이 추가됨
 
